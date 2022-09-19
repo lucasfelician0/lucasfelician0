@@ -1,7 +1,7 @@
 <h1> Eu sou o Lucas Feliciano! <img
 src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"width="30"px></h1>
 
-- Estágirio na Empresa - Smart-tech
+- Estágiario na Empresa - Smart-tech
 - Fazendo faculdade de Análise e Desenvolvimento de Sistemas
 - Tenho 25 anos de idade
 - E amo trabalhar com programação
