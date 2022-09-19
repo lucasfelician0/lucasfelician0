@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"wid
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=dark)"
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=onedark)"
 alt="lucasfelician0's stats"/>
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelician0&layout=compact)](https://github.com/lucasfelician0/github-readme-stats"/>
