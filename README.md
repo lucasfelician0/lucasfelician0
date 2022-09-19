@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"wid
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=dark)"
 alt="lucasfelician0's stats"/>
 
-
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelician0&layout=compact)](https://github.com/lucasfelician0/github-readme-stats"/>
 
 <img align="center" alt="RUBY"
 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
