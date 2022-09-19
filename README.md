@@ -9,9 +9,10 @@ src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"wid
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasFeliciano&show_icons=true&theme=dark)"
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=dark)"
 alt="lucasfelician0's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucasfeliciano)](https://github.com/lucasfeliciano/github-readme-stats"/>
+
+
 
 <img align="center" alt="RUBY"
 src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
