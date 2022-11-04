@@ -4,7 +4,7 @@ src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"wid
 - Estágiario na Empresa - Smart-tech
 - Fazendo faculdade de Análise e Desenvolvimento de Sistemas
 - Tenho 25 anos de idade
-- E amo trabalhar com programação
+- Amo trabalhar com programação
 <br><br>
 
 <p align="left">
