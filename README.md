@@ -1,11 +1,11 @@
 <h1>Eu sou o Lucas Feliciano!</h1> <img
 src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"width="30"px>
-<hr>
+<br>
 - Estágiario na Empresa - Smart-tech
 - Fazendo faculdade de Análise e Desenvolvimento de Sistemas
 - Tenho 25 anos de idade
 - Amo trabalhar com programação
-<hr>
+<br>
 <p align="left">
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=onedark)"
