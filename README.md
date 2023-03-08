@@ -1,4 +1,4 @@
-<h1> Eu sou o Lucas Feliciano! <img
+<h1> Eu sou o Lucas Feliciano! <img>
 src="https://raw.githubusercontent.com/kauemarques/kaueMarques/master/hi.gif"width="30"px></h1>
 
 - Estágiario na Empresa - Smart-tech
