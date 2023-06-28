@@ -2,7 +2,7 @@
 <br>
 - Estágiario na Empresa - Smart-tech
 - Fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- Tenho 25 anos de idade
+- Tenho 26 anos de idade
 - Amo trabalhar com programação
 <br>
 <p align="left">
