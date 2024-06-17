@@ -1,8 +1,8 @@
 <h1>Eu sou o Lucas Feliciano!</h1>
 <br>
-- Estágiario na Empresa - Smart-tech
-- Fazendo faculdade de Análise e Desenvolvimento de Sistemas
-- Tenho 26 anos de idade
+- Trabalho na empresa Smartfit
+- Me encontro no último semestre da faculdade de Análise e Desenvolvimento de Sistemas
+- Tenho 27 anos de idade
 - Amo trabalhar com programação
 <br>
 <p align="left">
