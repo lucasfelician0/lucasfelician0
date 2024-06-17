@@ -1,15 +1,9 @@
 <h1>Eu sou o Lucas Feliciano!</h1>
 <br>
-<p>
-- Trabalho na empresa Smartfit
-</p>
-<p>
-- Me encontro no último semestre da faculdade de Análise e Desenvolvimento de Sistemas
-</p>
-- Tenho 27 anos de idade
-<p>
-- Amo trabalhar com programação
-</p>
+<p>- Trabalho na empresa Smartfit</p>
+<p>- Me encontro no último semestre da faculdade de Análise e Desenvolvimento de Sistemas</p>
+<p>- Tenho 27 anos de idade</p>
+<p>- Amo trabalhar com programação</p>
 <br>
 <p align="left">
 
