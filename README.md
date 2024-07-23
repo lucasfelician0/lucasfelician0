@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LuigiMendes&show_icons=true&theme=dracula" alt="Luigi Mendes Status">
+ <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasfelician0&show_icons=true&theme=dracula" alt="Lucas Feliciano Status">
  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelician0&langs_count=8&theme=dracula&layout=compact"  alt="Lucas Feliciano most languages">
 </p>
 <br>
